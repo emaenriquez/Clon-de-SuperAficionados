@@ -19,7 +19,7 @@ body {
 
 .container__header-h1 {
     text-align: center;
-    margin: 0;
+    margin: 1%;
     color: #fff;
 }
 
@@ -133,6 +133,8 @@ body {
     height: 190px;
     margin-top: 10px;
 }
+
+
 
 footer {
     text-align: center;
