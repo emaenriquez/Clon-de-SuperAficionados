@@ -1,0 +1,47 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Open Sans', sans-serif;
+
+}
+
+.img {
+    width: 100%;
+}
+
+.button-img-burger {
+    outline: none;
+}
+
+.contenedor__img-grid {
+    position: relative;
+}
+
+.titulo__grid {
+    position: absolute;
+    bottom: 1px;
+    text-align: justify;
+
+    font-size: 15px;
+    font-weight: bold;
+    margin: 10px;
+}
+
+
+.section__mas-populares h2 {
+    text-align: center;
+    border-bottom: 1px solid #f5f5f5;
+    font-weight: bold;
+    padding-bottom: 5px;
+}
+
+.section__mas-populares h2::after {
+    content: "";
+    display: block;
+    width: 220px;
+    margin: 0 auto;
+    position: relative;
+    bottom: -6px;
+    border-bottom: 1px solid #000;
+}
