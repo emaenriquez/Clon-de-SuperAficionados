@@ -45,3 +45,9 @@
     bottom: -6px;
     border-bottom: 1px solid #000;
 }
+
+@media screen and (max-width: 768px) {
+    .img-fluid {
+        height: 100%;
+    }
+}
