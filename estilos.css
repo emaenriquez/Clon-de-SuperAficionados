@@ -22,7 +22,6 @@
     position: absolute;
     bottom: 1px;
     text-align: justify;
-
     font-size: 15px;
     font-weight: bold;
     margin: 10px;
@@ -46,8 +45,48 @@
     border-bottom: 1px solid #000;
 }
 
+.main-contendor{
+    background: #F5F5F5;
+}
+
+.section__mas-recientes{
+    background: #fff;
+    margin: 16px;
+    border-radius: 3px;
+}
+
+.div__section-mas-recientes{
+    width: 100%;
+    padding: 10px;
+    border-bottom: 2px solid #f5f5f5;
+}
+
+
+.titulo__mas-recientes{
+    color: #F47340;
+}
+@media screen and (min-width: 768px){
+    .section__mas-populares h2 {
+        text-align: justify;
+        padding-left: 40px;
+    }
+
+    .section__mas-populares h2::after {
+        width: 220px;
+        margin: auto 15px;
+    }
+
+
+}
+
 @media screen and (max-width: 768px) {
     .img-fluid {
         height: 100%;
     }
+
+}
+
+@media screen and (min-width: 1024px){
+    .titulo__grid{
+        font-size: 20px;}
 }
