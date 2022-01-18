@@ -6,9 +6,8 @@ Me gustaría aprender a usar las API en el futuro para mejorar este proyecto.
 
 y aprender nuevas habilidades para implementar en este proyectos y en otros futuros
 
-# Pagina horiginal
-
-SuperAficionados: https://www.superaficionados.com
+pagina original SuperAficionados : https://www.superaficionados.com
+MI clon de SuperAficionados: https://clonsuperaficionados.netlify.app/
 
 # redes sociales
 
